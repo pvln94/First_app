@@ -5,7 +5,7 @@ Welcome to my first app created using Flutter as the framework and SDK, and Dart
 This project is inspired by a tutorial from Academind on YouTube. Through this project, I have learned the basics of Flutter, the Dart programming language, and how to use Android Studio (Koala version) as the integrated development environment (IDE). The tutorial provides a comprehensive guide on building a basic app from scratch.
 
 ## Reference
-For more detailed guidance and step-by-step instructions, you can refer to the "Tutorial video"(https://www.youtube.com/watch?v=x0uinJvhNxI&t=10636s).
+For more detailed guidance and step-by-step instructions, you can refer to the ["Tutorial video"](https://www.youtube.com/watch?v=x0uinJvhNxI&t=10636s).
 
 
 # Note
