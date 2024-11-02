@@ -7,6 +7,11 @@ This project is inspired by a tutorial from Academind on YouTube. Through this p
 ## Reference
 For more detailed guidance and step-by-step instructions, you can refer to the ["Tutorial video"](https://www.youtube.com/watch?v=x0uinJvhNxI&t=10636s).
 
+## Preview
+https://github.com/user-attachments/assets/aa341bde-f79f-4a9b-98dc-449becd8a302
+
+
+
 
 # Note
 Ensure that all plugins listed in pubspec.yaml are correct and updated to the latest versions before running the app. You can do this by running:
